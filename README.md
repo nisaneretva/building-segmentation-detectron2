@@ -7,6 +7,4 @@ Training the model works just the same as training an object detection model. Th
 
 ### Model Outputs:
 
-<img src="./output_goruntu/building_AdobeExpress.gif">
-<img src="./output_goruntu/DJI_0485_7446.jpg">
-<img src="./output_goruntu/DJI_0485_7770.jpg">
+<center><img src="./output_goruntu/building_AdobeExpress.gif"></center>
