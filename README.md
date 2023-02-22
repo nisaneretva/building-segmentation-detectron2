@@ -7,5 +7,5 @@ Training the model works just the same as training an object detection model. Th
 
 ### Model Outputs:
 <div align="center">
-<img src="./output_goruntu/building_AdobeExpress.gif">
-  <div>
+  <img src="./output_goruntu/building_AdobeExpress.gif">
+<div>
